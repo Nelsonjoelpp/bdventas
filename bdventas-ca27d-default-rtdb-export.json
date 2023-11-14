@@ -1,0 +1,58 @@
+{
+  "Ventas": {
+    "Clientes": {
+      "campos": {
+        "CORREO": "edyrex78@gmail.com",
+        "DIRECCION": "CAMPUR",
+        "IDCLIENTE": 1,
+        "NOMBRE": "EDY",
+        "TELEFONO": "4521-5623"
+      }
+    },
+    "DetallesOrden": {
+      "campos": {
+        "CANTIDAD": 2,
+        "IDDETALLE": 1,
+        "IDORDEN": 1,
+        "IDPRODUCTO": 1,
+        "PrecioUnitario": 35
+      }
+    },
+    "Facturas": {
+      "campos": {
+        "Facturas": {
+          "fecha": "15-06-2023",
+          "idfactura": 1,
+          "idorden": 1,
+          "total": 55
+        }
+      }
+    },
+    "PROVEEDORES": {
+      "CAMPOS": {
+        "CORREO": "nelsonpaau12@gmail.com",
+        "DIRECCION": "CHAHILPE",
+        "IDPROVEEDOR": 1,
+        "NOMBRE": "NELSON",
+        "TELEFONO": "5425-4523"
+      }
+    },
+    "ordenes": {
+      "campos": {
+        "FECHA": "12-05-2023",
+        "IDCLIENTE": 1,
+        "IDORDEN": 1,
+        "TOTAL": 59.99
+      }
+    },
+    "productos": {
+      "campos": {
+        "descripcion": "",
+        "idproducto": 1,
+        "nombre": "tenis",
+        "precio": 55,
+        "stock": ""
+      }
+    }
+  }
+}
